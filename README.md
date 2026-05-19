@@ -1,7 +1,7 @@
-#😷Covid-19-Data-Exploration-SQL
+# 😷Covid-19-Data-Exploration-SQL
 Data exploration of global COVID-19 immunization and mortality rates using SQL Server.
 
-#😷Covid-19 Global Data Exploration
+# 😷Covid-19 Global Data Exploration
 
 ## 📌 Project Overview
 This project involves a deep dive into global COVID-19 data, focusing on death transitions and vaccination progress. The goal was to extract meaningful insights regarding mortality rates and the pace of immunization across different continents and income groups.
