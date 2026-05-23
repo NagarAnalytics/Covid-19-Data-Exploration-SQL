@@ -1,6 +1,3 @@
-# 😷Covid-19-Data-Exploration-SQL
-Data exploration of global COVID-19 immunization and mortality rates using SQL Server.
-
 # 😷Covid-19 Global Data Exploration
 
 ## 📌 Project Overview
